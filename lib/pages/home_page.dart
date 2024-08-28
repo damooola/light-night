@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:light_night/components/box.dart';
 import 'package:light_night/components/button.dart';
-import 'package:light_night/theme/theme.dart';
 import 'package:light_night/theme/theme_provider.dart';
 import 'package:provider/provider.dart';
 
